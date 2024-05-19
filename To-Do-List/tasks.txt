@@ -1,0 +1,10 @@
+wake up,True
+code,True
+eat,True
+code again,True
+code till 6:30,False
+eat again,True
+code till 12,True
+sleep,True
+repeat,False
+mk,True
